@@ -1,9 +1,9 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://ghproxy.cc/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/live.m3u
-https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/refs/heads/main/live_ipv4.txt
-https://raw.githubusercontent.com/ssili126/tv/d73dfcab304e0625f231a06d481b867c8680142a/itvlist.txt
-https://raw.githubusercontent.com/suxuang/myIPTV/60f27be4906dc620f9cbe4a9ac78d590bf4ebe25/ipv6.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/live.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/refs/heads/main/live_ipv4.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/ssili126/tv/d73dfcab304e0625f231a06d481b867c8680142a/itvlist.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/60f27be4906dc620f9cbe4a9ac78d590bf4ebe25/ipv6.m3u
