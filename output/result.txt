@@ -1,7 +1,7 @@
 央视频道,#genre#
 CCTV1,http://211.67.191.23/hls/cctv1hd/index.m3u8
+CCTV1,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
-CCTV1,http://115.149.139.141:10000/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://202.168.187.208:9089/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
 CCTV2,http://211.67.191.23/hls/cctv2hd/index.m3u8
 CCTV2,http://115.149.139.141:10000/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -81,4 +81,4 @@ CCTV17,http://202.168.187.208:9089/tsfile/live/1004_1.m3u8?key=txiptv&url=tvzb.c
 四川卫视,http://211.67.191.23/hls/schd/index.m3u8
 
 🕘️更新时间,#genre#
-2025-03-14 17:20:31,http://211.67.191.23/hls/cctv1hd/index.m3u8
+2025-03-14 18:22:53,http://211.67.191.23/hls/cctv1hd/index.m3u8
