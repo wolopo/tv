@@ -1,6 +1,5 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://raw.githubusercontent.com/07751000/IPTVzb1/refs/heads/main/0314%E7%BB%BC%E5%90%88%E6%BA%90.txt
 https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/live.m3u
 https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.1.txt
 https://raw.githubusercontent.com/KSHMR530/Kenshin/1b2af96ae222fd38d90dd346382411f3a0464b31/live.txt
