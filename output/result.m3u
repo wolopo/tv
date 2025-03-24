@@ -1,116 +1,118 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 #EXTINF:-1 tvg-name="CCTV1"  group-title="央视频道",CCTV1
-http://39.77.34.83:35455/gaoma/cctv1.m3u8
+http://huashetou.fun:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV1"  group-title="央视频道",CCTV1
 http://live.dxhmt.cn:9081/tv/11527-1.m3u8
 #EXTINF:-1 tvg-name="CCTV1"  group-title="央视频道",CCTV1
 http://3501776.xyz:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV2"  group-title="央视频道",CCTV2
-http://1752e145z8.vicp.fun:35455/gaoma/cctv2.m3u8
+http://huashetou.fun:35455/gaoma/cctv2.m3u8
 #EXTINF:-1 tvg-name="CCTV2"  group-title="央视频道",CCTV2
-http://3501776.xyz:35455/gaoma/cctv2.m3u8
+http://xiaoya.crccxw.top:35455/gaoma/cctv2.m3u8
 #EXTINF:-1 tvg-name="CCTV2"  group-title="央视频道",CCTV2
-http://112.81.218.254:35455/gaoma/cctv2.m3u8
+http://39.164.160.249:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 tvg-name="CCTV3"  group-title="央视频道",CCTV3
-http://39.77.34.83:35455/gaoma/cctv3.m3u8
+http://huashetou.fun:35455/gaoma/cctv3.m3u8
 #EXTINF:-1 tvg-name="CCTV3"  group-title="央视频道",CCTV3
-http://3501776.xyz:35455/gaoma/cctv3.m3u8
-#EXTINF:-1 tvg-name="CCTV3"  group-title="央视频道",CCTV3
-http://112.81.218.254:35455/gaoma/cctv3.m3u8
+http://xiaoya.crccxw.top:35455/gaoma/cctv3.m3u8
 #EXTINF:-1 tvg-name="CCTV4"  group-title="央视频道",CCTV4
-http://39.77.34.83:35455/gaoma/cctv4k.m3u8
+http://1.itv.nctv.top:7777/gaoma/cctv4k_10m.m3u8
 #EXTINF:-1 tvg-name="CCTV4"  group-title="央视频道",CCTV4
-http://www.douzhicloud.site:35455/gaoma/cctv4.m3u8
+http://1752e145z8.vicp.fun:35455/gaoma/cctv4.m3u8
+#EXTINF:-1 tvg-name="CCTV4"  group-title="央视频道",CCTV4
+http://xiaoya.crccxw.top:35455/gaoma/cctv4.m3u8
 #EXTINF:-1 tvg-name="CCTV5"  group-title="央视频道",CCTV5
 http://1752e145z8.vicp.fun:35455/gaoma/cctv5.m3u8
 #EXTINF:-1 tvg-name="CCTV5"  group-title="央视频道",CCTV5
-http://39.77.34.83:35455/gaoma/cctv5.m3u8
+http://227w9f5104.zicp.fun:35455/gaoma/cctv5.m3u8
 #EXTINF:-1 tvg-name="CCTV5"  group-title="央视频道",CCTV5
-http://3501776.xyz:35455/gaoma/cctv5.m3u8
+http://home.kuaidi521.com:35455/gaoma/cctv5.m3u8
+#EXTINF:-1 tvg-name="CCTV5+"  group-title="央视频道",CCTV5+
+http://huashetou.fun:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV5+"  group-title="央视频道",CCTV5+
 http://1752e145z8.vicp.fun:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV5+"  group-title="央视频道",CCTV5+
-http://3501776.xyz:35455/gaoma/cctv5p.m3u8
-#EXTINF:-1 tvg-name="CCTV5+"  group-title="央视频道",CCTV5+
-http://www.douzhicloud.site:35455/gaoma/cctv5p.m3u8
+http://112.81.218.254:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV6"  group-title="央视频道",CCTV6
-http://113.140.12.230:8888/newlive/live/hls/7/live.m3u8
+http://1.24.39.180:9003/hls/6/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6"  group-title="央视频道",CCTV6
-http://39.170.52.236:808/hls/6/index.m3u8
+http://113.140.86.162:8009/hls/6/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6"  group-title="央视频道",CCTV6
-http://219.135.180.210:18888/hls/6/index.m3u8
+http://110.53.52.63:8888/newlive/live/hls/8/live.m3u8
 #EXTINF:-1 tvg-name="CCTV7"  group-title="央视频道",CCTV7
-http://39.77.34.83:35455/gaoma/cctv7.m3u8
+http://36.105.100.208:35455/gaoma/cctv7.m3u8
 #EXTINF:-1 tvg-name="CCTV7"  group-title="央视频道",CCTV7
-http://www.douzhicloud.site:35455/gaoma/cctv7.m3u8
-#EXTINF:-1 tvg-name="CCTV7"  group-title="央视频道",CCTV7
-http://xiaoya.crccxw.top:35455/gaoma/cctv7.m3u8
+http://home.kuaidi521.com:35455/gaoma/cctv7.m3u8
 #EXTINF:-1 tvg-name="CCTV8"  group-title="央视频道",CCTV8
-http://39.77.34.83:35455/gaoma/cctv8.m3u8
+http://huashetou.fun:35455/gaoma/cctv8k_36m.m3u8
 #EXTINF:-1 tvg-name="CCTV8"  group-title="央视频道",CCTV8
-http://3501776.xyz:35455/gaoma/cctv8.m3u8
-#EXTINF:-1 tvg-name="CCTV8"  group-title="央视频道",CCTV8
-http://36.138.252.14:35455/gaoma/cctv8.m3u8
+http://112.81.218.254:35455/gaoma/cctv8.m3u8
 #EXTINF:-1 tvg-name="CCTV9"  group-title="央视频道",CCTV9
-http://3501776.xyz:35455/gaoma/cctv9.m3u8
+http://1.itv.nctv.top:7777/gaoma/cctv9.m3u8
 #EXTINF:-1 tvg-name="CCTV9"  group-title="央视频道",CCTV9
-http://227w9f5104.zicp.fun:35455/gaoma/cctv9.m3u8
+http://huashetou.fun:35455/gaoma/cctv9.m3u8
 #EXTINF:-1 tvg-name="CCTV9"  group-title="央视频道",CCTV9
-http://home.kuaidi521.com:35455/gaoma/cctv9.m3u8
-#EXTINF:-1 tvg-name="CCTV10"  group-title="央视频道",CCTV10
-http://39.77.34.83:35455/gaoma/cctv10.m3u8
+http://1752e145z8.vicp.fun:35455/gaoma/cctv9.m3u8
 #EXTINF:-1 tvg-name="CCTV10"  group-title="央视频道",CCTV10
 http://xiaoya.crccxw.top:35455/gaoma/cctv10.m3u8
 #EXTINF:-1 tvg-name="CCTV10"  group-title="央视频道",CCTV10
-http://112.81.218.254:35455/gaoma/cctv10.m3u8
+http://39.164.160.249:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-name="CCTV10"  group-title="央视频道",CCTV10
+http://3501776.xyz:35455/gaoma/cctv10.m3u8
 #EXTINF:-1 tvg-name="CCTV11"  group-title="央视频道",CCTV11
-http://39.77.34.83:35455/gaoma/cctv11.m3u8
+http://39.164.160.249:9901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 tvg-name="CCTV11"  group-title="央视频道",CCTV11
-http://xiaoya.crccxw.top:35455/gaoma/cctv11.m3u8
+http://3501776.xyz:35455/gaoma/cctv11.m3u8
 #EXTINF:-1 tvg-name="CCTV11"  group-title="央视频道",CCTV11
-http://home.kuaidi521.com:35455/gaoma/cctv11.m3u8
+http://227w9f5104.zicp.fun:35455/gaoma/cctv11.m3u8
 #EXTINF:-1 tvg-name="CCTV12"  group-title="央视频道",CCTV12
-http://39.77.34.83:35455/gaoma/cctv12.m3u8
+http://huashetou.fun:35455/gaoma/cctv12.m3u8
 #EXTINF:-1 tvg-name="CCTV12"  group-title="央视频道",CCTV12
 http://3501776.xyz:35455/gaoma/cctv12.m3u8
 #EXTINF:-1 tvg-name="CCTV12"  group-title="央视频道",CCTV12
-http://36.138.252.14:35455/gaoma/cctv12.m3u8
+http://112.81.218.254:35455/gaoma/cctv12.m3u8
+#EXTINF:-1 tvg-name="CCTV13"  group-title="央视频道",CCTV13
+http://huashetou.fun:35455/gaoma/cctv13.m3u8
 #EXTINF:-1 tvg-name="CCTV13"  group-title="央视频道",CCTV13
 http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 #EXTINF:-1 tvg-name="CCTV13"  group-title="央视频道",CCTV13
-http://3501776.xyz:35455/gaoma/cctv13.m3u8
-#EXTINF:-1 tvg-name="CCTV13"  group-title="央视频道",CCTV13
-http://112.81.218.254:35455/gaoma/cctv13.m3u8
+http://39.164.160.249:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 tvg-name="CCTV14"  group-title="央视频道",CCTV14
-http://39.77.34.83:35455/gaoma/cctv14.m3u8
+http://huashetou.fun:35455/gaoma/cctv14.m3u8
 #EXTINF:-1 tvg-name="CCTV14"  group-title="央视频道",CCTV14
 http://3501776.xyz:35455/gaoma/cctv14.m3u8
 #EXTINF:-1 tvg-name="CCTV14"  group-title="央视频道",CCTV14
-http://112.81.218.254:35455/gaoma/cctv14.m3u8
+http://home.kuaidi521.com:35455/gaoma/cctv14.m3u8
 #EXTINF:-1 tvg-name="CCTV15"  group-title="央视频道",CCTV15
-http://39.77.34.83:35455/gaoma/cctv15.m3u8
+http://1.itv.nctv.top:7777/gaoma/cctv15.m3u8
 #EXTINF:-1 tvg-name="CCTV15"  group-title="央视频道",CCTV15
-http://112.81.218.254:35455/gaoma/cctv15.m3u8
+http://xiaoya.crccxw.top:35455/gaoma/cctv15.m3u8
+#EXTINF:-1 tvg-name="CCTV15"  group-title="央视频道",CCTV15
+http://36.105.100.208:35455/gaoma/cctv15.m3u8
 #EXTINF:-1 tvg-name="CCTV16"  group-title="央视频道",CCTV16
-http://39.77.34.83:35455/gaoma/cctv16.m3u8
+http://huashetou.fun:35455/gaoma/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV16"  group-title="央视频道",CCTV16
-http://112.81.218.254:35455/gaoma/cctv16.m3u8
+http://xiaoya.crccxw.top:35455/gaoma/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV16"  group-title="央视频道",CCTV16
-http://home.kuaidi521.com:35455/gaoma/cctv16.m3u8
+http://36.105.100.208:35455/gaoma/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV17"  group-title="央视频道",CCTV17
-http://39.77.34.83:35455/gaoma/cctv17.m3u8
+http://huashetou.fun:35455/gaoma/cctv17.m3u8
+#EXTINF:-1 tvg-name="CCTV17"  group-title="央视频道",CCTV17
+http://xiaoya.crccxw.top:35455/gaoma/cctv17.m3u8
 #EXTINF:-1 tvg-name="CCTV17"  group-title="央视频道",CCTV17
 http://227w9f5104.zicp.fun:35455/gaoma/cctv17.m3u8
-#EXTINF:-1 tvg-name="CCTV17"  group-title="央视频道",CCTV17
-http://112.81.218.254:35455/gaoma/cctv17.m3u8
 #EXTINF:-1 tvg-name="广东卫视"  group-title="卫视频道",广东卫视
-http://stream.qhbtv.com/adws/sd/live.m3u8
+http://ms.fxim.net:808/hls/27/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视"  group-title="卫视频道",广东卫视
 http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 tvg-name="广东卫视"  group-title="卫视频道",广东卫视
+http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1 tvg-name="北京卫视"  group-title="卫视频道",北京卫视
-http://36.32.174.67:60080/newlive/live/hls/25/live.m3u8
+http://39.164.160.249:9901/tsfile/live/0122_1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视"  group-title="卫视频道",湖南卫视
-https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+http://113.140.86.162:8009/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视"  group-title="卫视频道",湖南卫视
+http://ms.fxim.net:808/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视"  group-title="卫视频道",湖南卫视
 http://110.53.52.63:8888/newlive/live/hls/22/live.m3u8
 #EXTINF:-1 tvg-name="东方卫视"  group-title="卫视频道",东方卫视
@@ -118,11 +120,15 @@ http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
 #EXTINF:-1 tvg-name="东方卫视"  group-title="卫视频道",东方卫视
 https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 #EXTINF:-1 tvg-name="东方卫视"  group-title="卫视频道",东方卫视
-http://110.53.52.63:8888/newlive/live/hls/19/live.m3u8
+http://39.164.160.249:9901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 tvg-name="天津卫视"  group-title="卫视频道",天津卫视
+http://113.140.86.162:8009/hls/44/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视"  group-title="卫视频道",天津卫视
 http://36.32.174.67:60080/newlive/live/hls/26/live.m3u8
 #EXTINF:-1 tvg-name="天津卫视"  group-title="卫视频道",天津卫视
-http://110.53.52.63:8888/newlive/live/hls/42/live.m3u8
+http://ms.fxim.net:808/hls/21/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视"  group-title="卫视频道",江苏卫视
+http://113.140.86.162:8009/hls/33/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视"  group-title="卫视频道",江苏卫视
 http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8
 #EXTINF:-1 tvg-name="江苏卫视"  group-title="卫视频道",江苏卫视
@@ -130,15 +136,15 @@ http://110.53.52.63:8888/newlive/live/hls/21/live.m3u8
 #EXTINF:-1 tvg-name="河南卫视"  group-title="卫视频道",河南卫视
 http://36.32.174.67:60080/newlive/live/hls/35/live.m3u8
 #EXTINF:-1 tvg-name="河南卫视"  group-title="卫视频道",河南卫视
-http://cssbyd.imwork.net:8082/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视"  group-title="卫视频道",河南卫视
 http://110.53.52.63:8888/newlive/live/hls/32/live.m3u8
+#EXTINF:-1 tvg-name="河南卫视"  group-title="卫视频道",河南卫视
+http://cssbyd.imwork.net:8082/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视"  group-title="卫视频道",浙江卫视
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 #EXTINF:-1 tvg-name="浙江卫视"  group-title="卫视频道",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+http://113.140.86.162:8009/hls/34/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视"  group-title="卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/540p.m3u8
+http://110.53.52.63:8888/newlive/live/hls/23/live.m3u8
 #EXTINF:-1 tvg-name="重庆卫视"  group-title="卫视频道",重庆卫视
 http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
 #EXTINF:-1 tvg-name="重庆卫视"  group-title="卫视频道",重庆卫视
@@ -156,22 +162,28 @@ http://36.32.174.67:60080/newlive/live/hls/42/live.m3u8
 #EXTINF:-1 tvg-name="山东卫视"  group-title="卫视频道",山东卫视
 http://110.53.52.63:8888/newlive/live/hls/29/live.m3u8
 #EXTINF:-1 tvg-name="山东卫视"  group-title="卫视频道",山东卫视
-http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+http://39.164.160.249:9901/tsfile/live/0131_1.m3u8
 #EXTINF:-1 tvg-name="东南卫视"  group-title="卫视频道",东南卫视
 http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
 #EXTINF:-1 tvg-name="东南卫视"  group-title="卫视频道",东南卫视
 http://110.53.52.63:8888/newlive/live/hls/47/live.m3u8
-#EXTINF:-1 tvg-name="东南卫视"  group-title="卫视频道",东南卫视
-http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 #EXTINF:-1 tvg-name="四川卫视"  group-title="卫视频道",四川卫视
 http://36.32.174.67:60080/newlive/live/hls/29/live.m3u8
 #EXTINF:-1 tvg-name="四川卫视"  group-title="卫视频道",四川卫视
-http://ms.fxim.net:808/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视"  group-title="卫视频道",四川卫视
 http://110.53.52.63:8888/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 tvg-name="四川卫视"  group-title="卫视频道",四川卫视
+http://120.238.94.10:9901/tsfile/live/1058_1.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实"  group-title="卫视频道",金鹰纪实
+https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实"  group-title="卫视频道",金鹰纪实
 http://120.238.94.10:9901/tsfile/live/1059_1.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实"  group-title="卫视频道",金鹰纪实
 http://121.19.134.222:808/tsfile/live/1037_1.m3u8
-#EXTINF:-1 tvg-name="CCTV1"  group-title="🕘️更新时间",2025-03-24 18:25:45
-http://39.77.34.83:35455/gaoma/cctv1.m3u8
+#EXTINF:-1 tvg-name="求索纪录"  group-title="卫视频道",求索纪录
+http://36.105.100.208:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索科学"  group-title="卫视频道",求索科学
+http://36.105.100.208:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="乐游"  group-title="卫视频道",乐游
+http://36.105.100.208:35455/itv/5000000011000031112.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="CCTV1"  group-title="🕘️更新时间",2025-03-25 06:23:14
+http://huashetou.fun:35455/gaoma/cctv1.m3u8
