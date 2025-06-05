@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250605061146 +0800">
+<tv date="20250605103121 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1956,13 +1956,16 @@
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
 	</channel>
-	<programme channel="四川卫视" start="20250605000300 +0800" stop="20250605004100 +0800">
+	<programme channel="四川卫视" start="20250605000300 +0800" stop="20250605003400 +0800">
 		<title lang="zh">殊死7日(2)</title>
 	</programme>
-	<programme channel="四川卫视" start="20250605004100 +0800" stop="20250605012000 +0800">
+	<programme channel="四川卫视" start="20250605003400 +0800" stop="20250605012400 +0800">
 		<title lang="zh">殊死7日(3)</title>
 	</programme>
-	<programme channel="四川卫视" start="20250605012000 +0800" stop="20250605052000 +0800">
+	<programme channel="四川卫视" start="20250605012400 +0800" stop="20250605015700 +0800">
+		<title lang="zh">百年巨匠2</title>
+	</programme>
+	<programme channel="四川卫视" start="20250605015700 +0800" stop="20250605052000 +0800">
 		<title lang="zh">百年巨匠</title>
 	</programme>
 	<programme channel="四川卫视" start="20250605052000 +0800" stop="20250605062000 +0800">
@@ -2055,110 +2058,95 @@
 	<channel id="天津卫视">
 		<display-name lang="zh">天津卫视</display-name>
 	</channel>
-	<programme channel="天津卫视" start="20250605000000 +0800" stop="20250605004000 +0800">
-		<title lang="zh">通宵剧场</title>
+	<programme channel="天津卫视" start="20250605004800 +0800" stop="20250605013600 +0800">
+		<title lang="zh">雪迷宫(29)</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605004000 +0800" stop="20250605013200 +0800">
-		<title lang="zh">通宵剧场</title>
+	<programme channel="天津卫视" start="20250605013600 +0800" stop="20250605033700 +0800">
+		<title lang="zh">非你莫属</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605013200 +0800" stop="20250605030000 +0800">
-		<title lang="zh">非你莫属(重播)</title>
+	<programme channel="天津卫视" start="20250605033700 +0800" stop="20250605045600 +0800">
+		<title lang="zh">雪豹(35)</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605030000 +0800" stop="20250605033000 +0800">
-		<title lang="zh">群英会</title>
+	<programme channel="天津卫视" start="20250605045600 +0800" stop="20250605054300 +0800">
+		<title lang="zh">雪豹(36)</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605033000 +0800" stop="20250605040000 +0800">
-		<title lang="zh">幸福来敲门(重播)</title>
-	</programme>
-	<programme channel="天津卫视" start="20250605040000 +0800" stop="20250605042900 +0800">
-		<title lang="zh">通宵剧场</title>
-	</programme>
-	<programme channel="天津卫视" start="20250605042900 +0800" stop="20250605051900 +0800">
-		<title lang="zh">通宵剧场</title>
-	</programme>
-	<programme channel="天津卫视" start="20250605051900 +0800" stop="20250605062000 +0800">
-		<title lang="zh">通宵剧场</title>
-	</programme>
-	<programme channel="天津卫视" start="20250605062000 +0800" stop="20250605063000 +0800">
-		<title lang="zh">拾遗保护</title>
+	<programme channel="天津卫视" start="20250605054300 +0800" stop="20250605063000 +0800">
+		<title lang="zh">雪豹(37)</title>
 	</programme>
 	<programme channel="天津卫视" start="20250605063000 +0800" stop="20250605070000 +0800">
-		<title lang="zh">纪录片:记住乡愁</title>
+		<title lang="zh">纪录片</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605070000 +0800" stop="20250605072800 +0800">
+	<programme channel="天津卫视" start="20250605070000 +0800" stop="20250605070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="天津卫视" start="20250605070100 +0800" stop="20250605073000 +0800">
 		<title lang="zh">津晨播报</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605072800 +0800" stop="20250605073000 +0800">
-		<title lang="zh">津晨天气</title>
+	<programme channel="天津卫视" start="20250605073000 +0800" stop="20250605081000 +0800">
+		<title lang="zh">仁心说医事</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605073000 +0800" stop="20250605080000 +0800">
-		<title lang="zh">食来运转</title>
+	<programme channel="天津卫视" start="20250605081000 +0800" stop="20250605084000 +0800">
+		<title lang="zh">奇奇和努娜</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605080000 +0800" stop="20250605083900 +0800">
-		<title lang="zh">动画片剧场</title>
+	<programme channel="天津卫视" start="20250605084000 +0800" stop="20250605094600 +0800">
+		<title lang="zh">上海滩生死较量(20)</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605083900 +0800" stop="20250605094900 +0800">
-		<title lang="zh">休闲剧场</title>
+	<programme channel="天津卫视" start="20250605094600 +0800" stop="20250605105300 +0800">
+		<title lang="zh">上海滩生死较量(21)</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605094900 +0800" stop="20250605105600 +0800">
-		<title lang="zh">休闲剧场</title>
-	</programme>
-	<programme channel="天津卫视" start="20250605105600 +0800" stop="20250605120000 +0800">
-		<title lang="zh">休闲剧场</title>
+	<programme channel="天津卫视" start="20250605105300 +0800" stop="20250605120000 +0800">
+		<title lang="zh">上海滩生死较量(22)</title>
 	</programme>
 	<programme channel="天津卫视" start="20250605120000 +0800" stop="20250605122500 +0800">
 		<title lang="zh">12点报道</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605122500 +0800" stop="20250605122800 +0800">
-		<title lang="zh">午间旅游气象</title>
+	<programme channel="天津卫视" start="20250605122500 +0800" stop="20250605130000 +0800">
+		<title lang="zh">天气预报</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605122800 +0800" stop="20250605130400 +0800">
-		<title lang="zh">食来运转</title>
+	<programme channel="天津卫视" start="20250605130000 +0800" stop="20250605140300 +0800">
+		<title lang="zh">上海滩生死较量(23)</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605130400 +0800" stop="20250605141100 +0800">
-		<title lang="zh">休闲剧场</title>
+	<programme channel="天津卫视" start="20250605140300 +0800" stop="20250605150600 +0800">
+		<title lang="zh">上海滩生死较量(24)</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605141100 +0800" stop="20250605151100 +0800">
-		<title lang="zh">休闲剧场</title>
+	<programme channel="天津卫视" start="20250605150600 +0800" stop="20250605160900 +0800">
+		<title lang="zh">上海滩生死较量(25)</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605151100 +0800" stop="20250605161700 +0800">
-		<title lang="zh">休闲剧场</title>
+	<programme channel="天津卫视" start="20250605160900 +0800" stop="20250605171200 +0800">
+		<title lang="zh">上海滩生死较量(26)</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605161700 +0800" stop="20250605172900 +0800">
-		<title lang="zh">休闲剧场</title>
+	<programme channel="天津卫视" start="20250605171200 +0800" stop="20250605181500 +0800">
+		<title lang="zh">上海滩生死较量(27)</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605172900 +0800" stop="20250605183000 +0800">
-		<title lang="zh">休闲剧场</title>
+	<programme channel="天津卫视" start="20250605181500 +0800" stop="20250605183000 +0800">
+		<title lang="zh">博物问津(11)</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605183000 +0800" stop="20250605185600 +0800">
+	<programme channel="天津卫视" start="20250605183000 +0800" stop="20250605185700 +0800">
 		<title lang="zh">天津新闻</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605185600 +0800" stop="20250605190000 +0800">
-		<title lang="zh">天津天气预报</title>
+	<programme channel="天津卫视" start="20250605185700 +0800" stop="20250605190000 +0800">
+		<title lang="zh">天气预报</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605190000 +0800" stop="20250605193500 +0800">
-		<title lang="zh">转播中央电视台新闻联播</title>
+	<programme channel="天津卫视" start="20250605190000 +0800" stop="20250605193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605193500 +0800" stop="20250605203000 +0800">
-		<title lang="zh">快乐生活剧场:六姊妹(34)</title>
+	<programme channel="天津卫视" start="20250605193000 +0800" stop="20250605202500 +0800">
+		<title lang="zh">小巷人家(8)</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605203000 +0800" stop="20250605211700 +0800">
-		<title lang="zh">快乐生活剧场:六姊妹(35)</title>
+	<programme channel="天津卫视" start="20250605202500 +0800" stop="20250605212000 +0800">
+		<title lang="zh">小巷人家(9)</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605211700 +0800" stop="20250605220000 +0800">
+	<programme channel="天津卫视" start="20250605212000 +0800" stop="20250605220000 +0800">
 		<title lang="zh">跨时代战书</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605220000 +0800" stop="20250605231100 +0800">
+	<programme channel="天津卫视" start="20250605220000 +0800" stop="20250605233000 +0800">
 		<title lang="zh">爱情保卫战</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605231100 +0800" stop="20250605231400 +0800">
-		<title lang="zh">天津天气预报</title>
+	<programme channel="天津卫视" start="20250605233000 +0800" stop="20250605233500 +0800">
+		<title lang="zh">天气预报</title>
 	</programme>
-	<programme channel="天津卫视" start="20250605231400 +0800" stop="20250605234600 +0800">
-		<title lang="zh">你看谁来了</title>
-	</programme>
-	<programme channel="天津卫视" start="20250605234600 +0800" stop="20250605235900 +0800">
-		<title lang="zh">财经视界</title>
+	<programme channel="天津卫视" start="20250605233500 +0800" stop="20250605235900 +0800">
+		<title lang="zh">雪迷宫(30)</title>
 	</programme>
 	<channel id="安徽卫视">
 		<display-name lang="zh">安徽卫视</display-name>
@@ -3100,7 +3088,7 @@
 		<title lang="zh">正午江苏</title>
 	</programme>
 	<programme channel="江苏卫视" start="20250605123400 +0800" stop="20250605142000 +0800">
-		<title lang="zh">非诚勿扰(重播)</title>
+		<title lang="zh">非诚勿扰</title>
 	</programme>
 	<programme channel="江苏卫视" start="20250605142000 +0800" stop="20250605162400 +0800">
 		<title lang="zh">新相亲大会</title>
