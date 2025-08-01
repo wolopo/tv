@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-01 06:22:59,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8
+2025-08-01 18:25:16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8
 
 央视频道,#genre#
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8
@@ -73,7 +73,6 @@ CCTV-6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227325/index.m3u
 CCTV-6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
 CCTV-6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdazJhFQmuq4XUiks9ZrIlJN%2BknLs8H%2BSxcDXy%2BTesEc8Q0KCN89MjYoj85Sol1kbKI4
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
-CCTV-7,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8
 CCTV-7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8
 CCTV-7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-7,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
@@ -82,6 +81,7 @@ CCTV-7,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV-7,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226906/1.m3u8
 CCTV-7,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8
 CCTV-7,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227019/1.m3u8
+CCTV-7,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226486/index.m3u8
 CCTV-8,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8
 CCTV-8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV-8,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8
@@ -102,7 +102,6 @@ CCTV-9,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV-9,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226482/index.m3u8
 CCTV-9,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/index.m3u8
 CCTV-9,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
-CCTV-10,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225814/index.m3u8
 CCTV-10,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8
 CCTV-10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-10,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8
@@ -112,6 +111,7 @@ CCTV-10,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 CCTV-10,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226483/index.m3u8
 CCTV-10,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226528/index.m3u8
 CCTV-10,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227169/index.m3u8
+CCTV-10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV-11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
 CCTV-11,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
 CCTV-11,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/1.m3u8
@@ -315,17 +315,17 @@ CCTV-17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/
 天津卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8
 天津卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225485/2/index.m3u8
 广东新闻,http://183.237.95.108:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
-广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
 广东新闻,http://120.198.101.106:9901/tsfile/live/1013_1.m3u8?key=txiptv
-广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
-广州综合,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzzh
-广州综合,http://tp88.cn/IPTV/guangdong/gztv.php?id=zhonghe
-广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=6d9c0311929fc12857f6b810fab0188b&txTime=1913a3ed516
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
+广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp;txSecret=7e4590b2320037d7ce49ce9eac2dd6c0
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=6d9c0311929fc12857f6b810fab0188b&txTime=1913a3ed516
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州综合,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzzh
+广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+广州综合,http://tp88.cn/IPTV/guangdong/gztv.php?id=zhonghe
 金鹰纪实,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-7.m3u8
 金鹰纪实,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8
 金鹰纪实,http://[2409:8087:7008:20::6]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/1.m3u8
