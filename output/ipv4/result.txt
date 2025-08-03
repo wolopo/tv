@@ -1,26 +1,50 @@
 🕘️更新时间,#genre#
-2025-08-03 18:23:13,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-04 06:23:43,http://8.138.7.223/tv/migu3.php?id=cctv1
 
 央视频道,#genre#
+CCTV-1,http://8.138.7.223/tv/migu3.php?id=cctv1
+CCTV-2,http://8.138.7.223/tv/migu3.php?id=cctv2
+CCTV-3,http://8.138.7.223/tv/migu3.php?id=cctv3
+CCTV-4,http://8.138.7.223/tv/migu3.php?id=cctv4o
+CCTV-4,http://8.138.7.223/tv/migu3.php?id=cctv4
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://home.yulei.online:9999/rtp/226.0.2.156:9160
+CCTV-5,http://8.138.7.223/tv/migu3.php?id=cctv5
+CCTV-5+,http://8.138.7.223/tv/migu3.php?id=cctv5p
+CCTV-7,http://8.138.7.223/tv/migu3.php?id=cctv7
+CCTV-8,http://8.138.7.223/tv/migu3.php?id=cctv8
+CCTV-9,http://8.138.7.223/tv/migu3.php?id=cctv9
+CCTV-10,http://8.138.7.223/tv/migu3.php?id=cctv10
+CCTV-12,http://8.138.7.223/tv/migu3.php?id=cctv12
+CCTV-13,http://8.138.7.223/tv/migu3.php?id=cctv13
+CCTV-14,http://8.138.7.223/tv/migu3.php?id=cctv14
+CCTV-15,http://8.138.7.223/tv/migu3.php?id=cctv15
+CCTV-16,http://8.138.7.223/tv/migu3.php?id=cctv16
+CCTV-17,http://8.138.7.223/tv/migu3.php?id=cctv17
 
 卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+广东卫视,http://8.138.7.223/tv/migu3.php?id=gdws
+湖南卫视,http://8.138.7.223/tv/migu3.php?id=hunws
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
+重庆卫视,http://8.138.7.223/tv/migu3.php?id=cqws
+东方卫视,http://8.138.7.223/tv/migu3.php?id=dfws
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://8.138.7.223/tv/migu3.php?id=hnws
+江苏卫视,http://8.138.7.223/tv/migu3.php?id=jsws
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视,http://8.138.7.223/tv/migu3.php?id=sdws
 广东新闻,http://183.237.95.108:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
-广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
 广东新闻,http://120.198.101.106:9901/tsfile/live/1013_1.m3u8?key=txiptv
+广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
 广州综合,http://tp88.cn/IPTV/guangdong/gztv.php?id=zhonghe
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp;txSecret=7e4590b2320037d7ce49ce9eac2dd6c0
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=6d9c0311929fc12857f6b810fab0188b&txTime=1913a3ed516
 广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
-广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp;txSecret=7e4590b2320037d7ce49ce9eac2dd6c0
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
-广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
