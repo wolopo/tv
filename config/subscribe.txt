@@ -25,7 +25,5 @@ https://raw.githubusercontent.com/huangxiong1992/cs/refs/heads/main/sjtv.txt
 https://raw.githubusercontent.com/iTCoffe/Collect-iTV/refs/heads/main/LiTV.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv6.m3u
 https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
-https://raw.githubusercontent.com/lizaifu2026/df/refs/heads/main/%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8.txt
 https://raw.githubusercontent.com/SmallTown1968/SmallTown/refs/heads/main/SmallTown.txt
-https://raw.githubusercontent.com/wind005/TVlive/refs/heads/main/txt/%E8%82%87%E5%BA%86%E7%A7%BB%E5%8A%A8%E5%85%A8%E7%BD%91%E9%80%9A0822.txt
 https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt
