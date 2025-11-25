@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-25 06:29:10,https://cc06.tv12.xyz/1.m3u8
+2025-11-25 18:31:37,https://cc06.tv12.xyz/1.m3u8
 
 央视频道,#genre#
 CCTV-1,https://cc06.tv12.xyz/1.m3u8
@@ -317,6 +317,7 @@ CCTV-17,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 广东新闻,https://hls-gateway.vpstv.net/streams/708873.m3u8
 广东新闻,https://mgev.188766.xyz/?migutoken=89c3e453070d149eb57d41dc7761534f&id=gd_gdxw&type=sz
 广东新闻,https://mgev.188766.xyz/?migutoken=46d24f053ba9141d6d82635de01fdc9c&id=gd_gdxw&type=sz
+广东新闻,https://mgev.188766.xyz/?migutoken=e69da4f495b6b2b7d0fff00dfca4face&id=gd_gdxw&type=sz
 广州综合,http://n1.gzbody.com:85/rtp/239.253.43.71:5146
 广州新闻,http://n1.gzbody.com:85/rtp/239.253.43.72:5146
 求索纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
