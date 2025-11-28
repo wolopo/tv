@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/wolopo/tv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-28 06:31:15
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-28 18:32:15
 https://cc06.tv12.xyz/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 https://cc06.tv12.xyz/1.m3u8
@@ -633,6 +633,8 @@ https://mgev.188766.xyz/?migutoken=e69da4f495b6b2b7d0fff00dfca4face&id=gd_gdxw&t
 https://mgev.188766.xyz/?migutoken=70e6bbe8f0410d17697114033f8c6a03&id=gd_gdxw&type=sz
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东新闻.png" group-title="卫视频道",广东新闻
 https://mgev.188766.xyz/?migutoken=245e51657c2f7d45b4cff7f550f1c354&id=gd_gdxw&type=sz
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东新闻.png" group-title="卫视频道",广东新闻
+https://mgev.188766.xyz/?migutoken=0e8dceb9142db9989b35feb1ea2c76e6&id=gd_gdxw&type=sz
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州综合.png" group-title="卫视频道",广州综合
 http://n1.gzbody.com:85/rtp/239.253.43.71:5146
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州新闻.png" group-title="卫视频道",广州新闻
