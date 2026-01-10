@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-10 06:29:12,https://cc06.tv12.xyz/1.m3u8
+2026-01-10 18:25:10,https://cc06.tv12.xyz/1.m3u8
 
 央视频道,#genre#
 CCTV-1,https://cc06.tv12.xyz/1.m3u8
@@ -325,7 +325,9 @@ CCTV-17,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 广东新闻,https://mgev.188766.xyz/?migutoken=68c4241a289909896d65bcfd662c04ff&id=gd_gdxw&type=sz
 广东新闻,https://hk.188766.xyz/?migutoken=a2d7c057cfbaf0704896077e502563eb&id=gd_gdxw&type=sz
 广州综合,http://n1.gzbody.com:85/rtp/239.253.43.71:5146
+广州综合,http://iptv.cqshushu.com/gddf.php?id=gzzh&token=a438a27a9ab11996f4a8f848146f2733
 广州新闻,http://n1.gzbody.com:85/rtp/239.253.43.72:5146
+广州新闻,http://iptv.cqshushu.com/gddf.php?id=gzxw&token=a438a27a9ab11996f4a8f848146f2733
 求索纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 求索纪录,http://eastscreen.tv/ooooo.php
 求索纪录,http://eastscreen.tv/ooooo.php?id=qsjl
