@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260222223042 +0800">
+<tv date="20260223224710 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -3483,376 +3483,358 @@
 	<channel id="求索科学">
 		<display-name lang="zh">求索科学</display-name>
 	</channel>
-	<programme channel="求索科学" start="20260223000000 +0800" stop="20260223004200 +0800">
-		<title lang="zh">生活科技大解密特别篇(2)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223004200 +0800" stop="20260223010300 +0800">
-		<title lang="zh">制造的原理ⅩⅥ(7)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223010300 +0800" stop="20260223012400 +0800">
-		<title lang="zh">制造的原理ⅩⅥ(8)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223012400 +0800" stop="20260223020900 +0800">
-		<title lang="zh">顶级改装车厂Ⅵ(9)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223020900 +0800" stop="20260223025300 +0800">
-		<title lang="zh">科技万象(5)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223025300 +0800" stop="20260223034000 +0800">
-		<title lang="zh">速度当道(6)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223034000 +0800" stop="20260223042700 +0800">
-		<title lang="zh">人脑大升级(3)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223042700 +0800" stop="20260223051100 +0800">
-		<title lang="zh">报废车的复活Ⅴ(8)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223051100 +0800" stop="20260223055900 +0800">
-		<title lang="zh">翻新老爷车Ⅷ(8)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223055900 +0800" stop="20260223060000 +0800">
-		<title lang="zh">宣传片</title>
-	</programme>
-	<programme channel="求索科学" start="20260223060000 +0800" stop="20260223064300 +0800">
-		<title lang="zh">生活科技大解密特别篇(1)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223064300 +0800" stop="20260223070400 +0800">
-		<title lang="zh">制造的原理ⅩⅥ(5)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223070400 +0800" stop="20260223072500 +0800">
-		<title lang="zh">制造的原理ⅩⅥ(6)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223072500 +0800" stop="20260223081000 +0800">
-		<title lang="zh">顶级改装车厂Ⅵ(8)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223081000 +0800" stop="20260223085400 +0800">
-		<title lang="zh">科技万象(4)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223085400 +0800" stop="20260223094100 +0800">
-		<title lang="zh">速度当道(5)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223094100 +0800" stop="20260223102800 +0800">
-		<title lang="zh">人脑大升级(2)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223102800 +0800" stop="20260223111200 +0800">
-		<title lang="zh">报废车的复活Ⅴ(7)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223111200 +0800" stop="20260223115900 +0800">
-		<title lang="zh">翻新老爷车Ⅷ(7)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223115900 +0800" stop="20260223120000 +0800">
-		<title lang="zh">宣传片</title>
-	</programme>
-	<programme channel="求索科学" start="20260223120000 +0800" stop="20260223124200 +0800">
-		<title lang="zh">生活科技大解密特别篇(2)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223124200 +0800" stop="20260223130300 +0800">
-		<title lang="zh">制造的原理ⅩⅥ(7)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223130300 +0800" stop="20260223132400 +0800">
-		<title lang="zh">制造的原理ⅩⅥ(8)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223132400 +0800" stop="20260223140900 +0800">
-		<title lang="zh">顶级改装车厂Ⅵ(9)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223140900 +0800" stop="20260223145300 +0800">
-		<title lang="zh">科技万象(5)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223145300 +0800" stop="20260223154000 +0800">
-		<title lang="zh">速度当道(6)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223154000 +0800" stop="20260223162700 +0800">
-		<title lang="zh">人脑大升级(3)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223162700 +0800" stop="20260223171100 +0800">
-		<title lang="zh">报废车的复活Ⅴ(8)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223171100 +0800" stop="20260223175900 +0800">
-		<title lang="zh">翻新老爷车Ⅷ(8)</title>
-	</programme>
-	<programme channel="求索科学" start="20260223175900 +0800" stop="20260223180000 +0800">
-		<title lang="zh">宣传片</title>
-	</programme>
-	<programme channel="求索科学" start="20260223180000 +0800" stop="20260223184400 +0800">
+	<programme channel="求索科学" start="20260224000000 +0800" stop="20260224004400 +0800">
 		<title lang="zh">废车救星</title>
 	</programme>
-	<programme channel="求索科学" start="20260223184400 +0800" stop="20260223190500 +0800">
+	<programme channel="求索科学" start="20260224004400 +0800" stop="20260224010500 +0800">
 		<title lang="zh">制造的原理ⅩⅥ(9)</title>
 	</programme>
-	<programme channel="求索科学" start="20260223190500 +0800" stop="20260223192600 +0800">
+	<programme channel="求索科学" start="20260224010500 +0800" stop="20260224012600 +0800">
 		<title lang="zh">制造的原理ⅩⅥ(10)</title>
 	</programme>
-	<programme channel="求索科学" start="20260223192600 +0800" stop="20260223201100 +0800">
+	<programme channel="求索科学" start="20260224012600 +0800" stop="20260224021100 +0800">
 		<title lang="zh">顶级改装车厂Ⅵ(10)</title>
 	</programme>
-	<programme channel="求索科学" start="20260223201100 +0800" stop="20260223205500 +0800">
+	<programme channel="求索科学" start="20260224021100 +0800" stop="20260224025500 +0800">
 		<title lang="zh">科技万象(6)</title>
 	</programme>
-	<programme channel="求索科学" start="20260223205500 +0800" stop="20260223214100 +0800">
+	<programme channel="求索科学" start="20260224025500 +0800" stop="20260224034100 +0800">
 		<title lang="zh">速度当道(7)</title>
 	</programme>
-	<programme channel="求索科学" start="20260223214100 +0800" stop="20260223222700 +0800">
+	<programme channel="求索科学" start="20260224034100 +0800" stop="20260224042700 +0800">
 		<title lang="zh">赛车的要素</title>
 	</programme>
-	<programme channel="求索科学" start="20260223222700 +0800" stop="20260223231100 +0800">
+	<programme channel="求索科学" start="20260224042700 +0800" stop="20260224051100 +0800">
 		<title lang="zh">报废车的复活Ⅴ(9)</title>
 	</programme>
-	<programme channel="求索科学" start="20260223231100 +0800" stop="20260223235500 +0800">
+	<programme channel="求索科学" start="20260224051100 +0800" stop="20260224055500 +0800">
 		<title lang="zh">齿轮狗</title>
 	</programme>
-	<programme channel="求索科学" start="20260223235500 +0800" stop="20260223235959 +0800">
+	<programme channel="求索科学" start="20260224055500 +0800" stop="20260224060000 +0800">
+		<title lang="zh">宣传片</title>
+	</programme>
+	<programme channel="求索科学" start="20260224060000 +0800" stop="20260224064200 +0800">
+		<title lang="zh">生活科技大解密特别篇(2)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224064200 +0800" stop="20260224070300 +0800">
+		<title lang="zh">制造的原理ⅩⅥ(7)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224070300 +0800" stop="20260224072400 +0800">
+		<title lang="zh">制造的原理ⅩⅥ(8)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224072400 +0800" stop="20260224080900 +0800">
+		<title lang="zh">顶级改装车厂Ⅵ(9)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224080900 +0800" stop="20260224085300 +0800">
+		<title lang="zh">科技万象(5)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224085300 +0800" stop="20260224094000 +0800">
+		<title lang="zh">速度当道(6)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224094000 +0800" stop="20260224102700 +0800">
+		<title lang="zh">人脑大升级(3)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224102700 +0800" stop="20260224111100 +0800">
+		<title lang="zh">报废车的复活Ⅴ(8)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224111100 +0800" stop="20260224115900 +0800">
+		<title lang="zh">翻新老爷车Ⅷ(8)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224115900 +0800" stop="20260224120000 +0800">
+		<title lang="zh">宣传片</title>
+	</programme>
+	<programme channel="求索科学" start="20260224120000 +0800" stop="20260224124400 +0800">
+		<title lang="zh">废车救星</title>
+	</programme>
+	<programme channel="求索科学" start="20260224124400 +0800" stop="20260224130500 +0800">
+		<title lang="zh">制造的原理ⅩⅥ(9)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224130500 +0800" stop="20260224132600 +0800">
+		<title lang="zh">制造的原理ⅩⅥ(10)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224132600 +0800" stop="20260224141100 +0800">
+		<title lang="zh">顶级改装车厂Ⅵ(10)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224141100 +0800" stop="20260224145500 +0800">
+		<title lang="zh">科技万象(6)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224145500 +0800" stop="20260224154100 +0800">
+		<title lang="zh">速度当道(7)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224154100 +0800" stop="20260224162700 +0800">
+		<title lang="zh">赛车的要素</title>
+	</programme>
+	<programme channel="求索科学" start="20260224162700 +0800" stop="20260224171100 +0800">
+		<title lang="zh">报废车的复活Ⅴ(9)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224171100 +0800" stop="20260224175500 +0800">
+		<title lang="zh">齿轮狗</title>
+	</programme>
+	<programme channel="求索科学" start="20260224175500 +0800" stop="20260224180000 +0800">
+		<title lang="zh">宣传片</title>
+	</programme>
+	<programme channel="求索科学" start="20260224180000 +0800" stop="20260224184500 +0800">
+		<title lang="zh">翻新老爷车风云榜(1)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224184500 +0800" stop="20260224190600 +0800">
+		<title lang="zh">制造的原理ⅩⅥ(11)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224190600 +0800" stop="20260224192700 +0800">
+		<title lang="zh">制造的原理ⅩⅥ(12)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224192700 +0800" stop="20260224201100 +0800">
+		<title lang="zh">魔法的奥秘(1)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224201100 +0800" stop="20260224205500 +0800">
+		<title lang="zh">巨无霸大搬家Ⅴ(1)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224205500 +0800" stop="20260224214200 +0800">
+		<title lang="zh">速度当道(8)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224214200 +0800" stop="20260224222800 +0800">
+		<title lang="zh">草根飞天梦(2)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224222800 +0800" stop="20260224231200 +0800">
+		<title lang="zh">报废车的复活Ⅴ(10)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224231200 +0800" stop="20260224235600 +0800">
+		<title lang="zh">英国皇家方舟号(1)</title>
+	</programme>
+	<programme channel="求索科学" start="20260224235600 +0800" stop="20260224235959 +0800">
 		<title lang="zh">宣传片</title>
 	</programme>
 	<channel id="金鹰纪实">
 		<display-name lang="zh">金鹰纪实</display-name>
 	</channel>
-	<programme channel="金鹰纪实" start="20260223000000 +0800" stop="20260223001000 +0800">
-		<title lang="zh">传奇功夫传奇(6)</title>
+	<programme channel="金鹰纪实" start="20260224000000 +0800" stop="20260224001000 +0800">
+		<title lang="zh">传奇厨王争霸(1)</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223001000 +0800" stop="20260223004000 +0800">
+	<programme channel="金鹰纪实" start="20260224001000 +0800" stop="20260224004000 +0800">
 		<title lang="zh">首发</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223004000 +0800" stop="20260223010500 +0800">
+	<programme channel="金鹰纪实" start="20260224004000 +0800" stop="20260224010500 +0800">
 		<title lang="zh">纪录时间</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223010500 +0800" stop="20260223015000 +0800">
+	<programme channel="金鹰纪实" start="20260224010500 +0800" stop="20260224015000 +0800">
 		<title lang="zh">点赞中国</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223015000 +0800" stop="20260223021500 +0800">
+	<programme channel="金鹰纪实" start="20260224015000 +0800" stop="20260224021500 +0800">
 		<title lang="zh">纪实真好看</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223021500 +0800" stop="20260223024000 +0800">
+	<programme channel="金鹰纪实" start="20260224021500 +0800" stop="20260224024000 +0800">
 		<title lang="zh">传奇</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223024000 +0800" stop="20260223032000 +0800">
+	<programme channel="金鹰纪实" start="20260224024000 +0800" stop="20260224032000 +0800">
 		<title lang="zh">历史片场</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223032000 +0800" stop="20260223034500 +0800">
+	<programme channel="金鹰纪实" start="20260224032000 +0800" stop="20260224034500 +0800">
 		<title lang="zh">首发</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223034500 +0800" stop="20260223040000 +0800">
+	<programme channel="金鹰纪实" start="20260224034500 +0800" stop="20260224040000 +0800">
 		<title lang="zh">寰宇地理</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223040000 +0800" stop="20260223043000 +0800">
+	<programme channel="金鹰纪实" start="20260224040000 +0800" stop="20260224043000 +0800">
 		<title lang="zh">寰宇地理</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223043000 +0800" stop="20260223050000 +0800">
+	<programme channel="金鹰纪实" start="20260224043000 +0800" stop="20260224050000 +0800">
 		<title lang="zh">探索</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223050000 +0800" stop="20260223054000 +0800">
+	<programme channel="金鹰纪实" start="20260224050000 +0800" stop="20260224054000 +0800">
 		<title lang="zh">历史片场</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223054000 +0800" stop="20260223063000 +0800">
-		<title lang="zh">历史片场(16)</title>
+	<programme channel="金鹰纪实" start="20260224054000 +0800" stop="20260224063000 +0800">
+		<title lang="zh">历史片场(17)</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223063000 +0800" stop="20260223065500 +0800">
+	<programme channel="金鹰纪实" start="20260224063000 +0800" stop="20260224065500 +0800">
 		<title lang="zh">首发</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223065500 +0800" stop="20260223074200 +0800">
-		<title lang="zh">寰宇地理(16)</title>
+	<programme channel="金鹰纪实" start="20260224065500 +0800" stop="20260224074200 +0800">
+		<title lang="zh">寰宇地理(17)</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223074200 +0800" stop="20260223080000 +0800">
-		<title lang="zh">历史片场(21)</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223080000 +0800" stop="20260223083000 +0800">
-		<title lang="zh">历史片场(21)</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223083000 +0800" stop="20260223090000 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223090000 +0800" stop="20260223093000 +0800">
-		<title lang="zh">纪实真好看(16)</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223093000 +0800" stop="20260223095500 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223095500 +0800" stop="20260223101500 +0800">
-		<title lang="zh">历史片场(上)</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223101500 +0800" stop="20260223103800 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223103800 +0800" stop="20260223110500 +0800">
-		<title lang="zh">历史片场(下)</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223110500 +0800" stop="20260223113000 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223113000 +0800" stop="20260223120000 +0800">
-		<title lang="zh">纪录时间(16)</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223120000 +0800" stop="20260223122500 +0800">
-		<title lang="zh">历史片场(上)中国Ⅰ(11)</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223122500 +0800" stop="20260223125000 +0800">
-		<title lang="zh">历史片场(下)</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223125000 +0800" stop="20260223132200 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223132200 +0800" stop="20260223140800 +0800">
-		<title lang="zh">点赞中国(16)</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223140800 +0800" stop="20260223143000 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223143000 +0800" stop="20260223151000 +0800">
-		<title lang="zh">探索(22)</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223151000 +0800" stop="20260223153000 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223153000 +0800" stop="20260223160000 +0800">
-		<title lang="zh">传奇</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223160000 +0800" stop="20260223162000 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223162000 +0800" stop="20260223164500 +0800">
-		<title lang="zh">首发</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223164500 +0800" stop="20260223170500 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="金鹰纪实" start="20260223170500 +0800" stop="20260223174500 +0800">
+	<programme channel="金鹰纪实" start="20260224074200 +0800" stop="20260224080000 +0800">
 		<title lang="zh">历史片场(22)</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223174500 +0800" stop="20260223182500 +0800">
+	<programme channel="金鹰纪实" start="20260224080000 +0800" stop="20260224083000 +0800">
+		<title lang="zh">历史片场(22)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224083000 +0800" stop="20260224090000 +0800">
 		<title lang="zh">专题</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223182500 +0800" stop="20260223191000 +0800">
-		<title lang="zh">寰宇地理野生小宝贝(8)</title>
+	<programme channel="金鹰纪实" start="20260224090000 +0800" stop="20260224093000 +0800">
+		<title lang="zh">纪实真好看(17)</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223191000 +0800" stop="20260223191500 +0800">
-		<title lang="zh">纪实风云</title>
+	<programme channel="金鹰纪实" start="20260224093000 +0800" stop="20260224095500 +0800">
+		<title lang="zh">专题</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223191500 +0800" stop="20260223194000 +0800">
-		<title lang="zh">纪录时间傲椒的湘菜Ⅱ(4)</title>
+	<programme channel="金鹰纪实" start="20260224095500 +0800" stop="20260224101500 +0800">
+		<title lang="zh">历史片场(上)</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223194000 +0800" stop="20260223195000 +0800">
-		<title lang="zh">广告</title>
+	<programme channel="金鹰纪实" start="20260224101500 +0800" stop="20260224103800 +0800">
+		<title lang="zh">专题</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223195000 +0800" stop="20260223204000 +0800">
-		<title lang="zh">点赞中国熊猫一家人(2)</title>
+	<programme channel="金鹰纪实" start="20260224103800 +0800" stop="20260224110500 +0800">
+		<title lang="zh">历史片场(下)</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223204000 +0800" stop="20260223210500 +0800">
+	<programme channel="金鹰纪实" start="20260224110500 +0800" stop="20260224113000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224113000 +0800" stop="20260224120000 +0800">
+		<title lang="zh">纪录时间(17)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224120000 +0800" stop="20260224122500 +0800">
+		<title lang="zh">历史片场(上)中国Ⅰ(12)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224122500 +0800" stop="20260224125000 +0800">
+		<title lang="zh">历史片场(下)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224125000 +0800" stop="20260224132200 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224132200 +0800" stop="20260224140800 +0800">
+		<title lang="zh">点赞中国(17)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224140800 +0800" stop="20260224143000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224143000 +0800" stop="20260224151000 +0800">
+		<title lang="zh">探索(17)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224151000 +0800" stop="20260224153000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224153000 +0800" stop="20260224160000 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224160000 +0800" stop="20260224162000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224162000 +0800" stop="20260224164500 +0800">
 		<title lang="zh">首发</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223210500 +0800" stop="20260223211500 +0800">
-		<title lang="zh">广告</title>
+	<programme channel="金鹰纪实" start="20260224164500 +0800" stop="20260224170500 +0800">
+		<title lang="zh">专题</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223211500 +0800" stop="20260223220000 +0800">
-		<title lang="zh">历史片场岳麓书院(1)</title>
+	<programme channel="金鹰纪实" start="20260224170500 +0800" stop="20260224174500 +0800">
+		<title lang="zh">历史片场(17)</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223220000 +0800" stop="20260223220500 +0800">
+	<programme channel="金鹰纪实" start="20260224174500 +0800" stop="20260224182500 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224182500 +0800" stop="20260224191000 +0800">
+		<title lang="zh">寰宇地理北境拓荒(1)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224191000 +0800" stop="20260224191500 +0800">
 		<title lang="zh">纪实风云</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223220500 +0800" stop="20260223225000 +0800">
-		<title lang="zh">探索动物奇门功夫</title>
+	<programme channel="金鹰纪实" start="20260224191500 +0800" stop="20260224194000 +0800">
+		<title lang="zh">纪录时间傲椒的湘菜Ⅱ(5)</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223225000 +0800" stop="20260223231000 +0800">
+	<programme channel="金鹰纪实" start="20260224194000 +0800" stop="20260224195000 +0800">
 		<title lang="zh">广告</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223231000 +0800" stop="20260223234000 +0800">
-		<title lang="zh">纪实真好看时辰里的年味(8)</title>
+	<programme channel="金鹰纪实" start="20260224195000 +0800" stop="20260224204000 +0800">
+		<title lang="zh">点赞中国熊猫一家人(3)</title>
 	</programme>
-	<programme channel="金鹰纪实" start="20260223234000 +0800" stop="20260223235959 +0800">
-		<title lang="zh">传奇厨王争霸(1)</title>
+	<programme channel="金鹰纪实" start="20260224204000 +0800" stop="20260224210500 +0800">
+		<title lang="zh">首发</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224210500 +0800" stop="20260224211500 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224211500 +0800" stop="20260224220000 +0800">
+		<title lang="zh">历史片场岳麓书院(2)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224220000 +0800" stop="20260224220500 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224220500 +0800" stop="20260224225000 +0800">
+		<title lang="zh">探索动物奇门功夫</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224225000 +0800" stop="20260224231000 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224231000 +0800" stop="20260224234000 +0800">
+		<title lang="zh">纪实真好看时辰里的年味(9)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260224234000 +0800" stop="20260224235959 +0800">
+		<title lang="zh">传奇厨王争霸(2)</title>
 	</programme>
 	<channel id="广州综合">
 		<display-name lang="zh">广州综合</display-name>
 	</channel>
-	<programme channel="广州综合" start="20260223000000 +0800" stop="20260223023000 +0800">
-		<title lang="zh">精彩呈现</title>
+	<programme channel="广州综合" start="20260224000000 +0800" stop="20260224060000 +0800">
+		<title lang="zh">收台</title>
 	</programme>
-	<programme channel="广州综合" start="20260223023000 +0800" stop="20260223030000 +0800">
+	<programme channel="广州综合" start="20260224060000 +0800" stop="20260224063000 +0800">
 		<title lang="zh">中国城市报道</title>
 	</programme>
-	<programme channel="广州综合" start="20260223030000 +0800" stop="20260223033000 +0800">
-		<title lang="zh">揾食珠三角</title>
-	</programme>
-	<programme channel="广州综合" start="20260223033000 +0800" stop="20260223060000 +0800">
-		<title lang="zh">广视剧场</title>
-	</programme>
-	<programme channel="广州综合" start="20260223060000 +0800" stop="20260223063000 +0800">
-		<title lang="zh">中国城市报道</title>
-	</programme>
-	<programme channel="广州综合" start="20260223063000 +0800" stop="20260223070000 +0800">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme channel="广州综合" start="20260223070000 +0800" stop="20260223073000 +0800">
-		<title lang="zh">广州新闻联播</title>
-	</programme>
-	<programme channel="广州综合" start="20260223073000 +0800" stop="20260223080000 +0800">
-		<title lang="zh">G4出动</title>
-	</programme>
-	<programme channel="广州综合" start="20260223080000 +0800" stop="20260223083000 +0800">
-		<title lang="zh">广视新闻</title>
-	</programme>
-	<programme channel="广州综合" start="20260223083000 +0800" stop="20260223090000 +0800">
-		<title lang="zh">广州新闻联播</title>
-	</programme>
-	<programme channel="广州综合" start="20260223090000 +0800" stop="20260223091500 +0800">
-		<title lang="zh">微短剧无人知是贵妃来</title>
-	</programme>
-	<programme channel="广州综合" start="20260223091500 +0800" stop="20260223093000 +0800">
-		<title lang="zh">百味广州</title>
-	</programme>
-	<programme channel="广州综合" start="20260223093000 +0800" stop="20260223120000 +0800">
-		<title lang="zh">广视剧场</title>
-	</programme>
-	<programme channel="广州综合" start="20260223120000 +0800" stop="20260223123000 +0800">
-		<title lang="zh">湾区全媒睇</title>
-	</programme>
-	<programme channel="广州综合" start="20260223123000 +0800" stop="20260223130000 +0800">
-		<title lang="zh">G4出动</title>
-	</programme>
-	<programme channel="广州综合" start="20260223130000 +0800" stop="20260223133000 +0800">
-		<title lang="zh">中国城市报道</title>
-	</programme>
-	<programme channel="广州综合" start="20260223133000 +0800" stop="20260223140000 +0800">
-		<title lang="zh">广视精品展播</title>
-	</programme>
-	<programme channel="广州综合" start="20260223140000 +0800" stop="20260223141500 +0800">
-		<title lang="zh">人生一万年</title>
-	</programme>
-	<programme channel="广州综合" start="20260223141500 +0800" stop="20260223143000 +0800">
-		<title lang="zh">微短剧无人知是贵妃来</title>
-	</programme>
-	<programme channel="广州综合" start="20260223143000 +0800" stop="20260223165000 +0800">
-		<title lang="zh">广视剧场</title>
-	</programme>
-	<programme channel="广州综合" start="20260223165000 +0800" stop="20260223171000 +0800">
-		<title lang="zh">广视精品展播</title>
-	</programme>
-	<programme channel="广州综合" start="20260223171000 +0800" stop="20260223174500 +0800">
+	<programme channel="广州综合" start="20260224063000 +0800" stop="20260224070000 +0800">
 		<title lang="zh">健康100FUN</title>
 	</programme>
-	<programme channel="广州综合" start="20260223174500 +0800" stop="20260223180000 +0800">
-		<title lang="zh">百味广州</title>
-	</programme>
-	<programme channel="广州综合" start="20260223180000 +0800" stop="20260223183000 +0800">
-		<title lang="zh">G4出动</title>
-	</programme>
-	<programme channel="广州综合" start="20260223183000 +0800" stop="20260223190000 +0800">
-		<title lang="zh">广视新闻</title>
-	</programme>
-	<programme channel="广州综合" start="20260223190000 +0800" stop="20260223193000 +0800">
-		<title lang="zh">转播新闻联播</title>
-	</programme>
-	<programme channel="广州综合" start="20260223193000 +0800" stop="20260223210000 +0800">
-		<title lang="zh">合家欢剧场</title>
-	</programme>
-	<programme channel="广州综合" start="20260223210000 +0800" stop="20260223213000 +0800">
+	<programme channel="广州综合" start="20260224070000 +0800" stop="20260224073000 +0800">
 		<title lang="zh">广州新闻联播</title>
 	</programme>
-	<programme channel="广州综合" start="20260223213000 +0800" stop="20260223230000 +0800">
+	<programme channel="广州综合" start="20260224073000 +0800" stop="20260224080000 +0800">
+		<title lang="zh">G4出动</title>
+	</programme>
+	<programme channel="广州综合" start="20260224080000 +0800" stop="20260224083000 +0800">
+		<title lang="zh">广视新闻</title>
+	</programme>
+	<programme channel="广州综合" start="20260224083000 +0800" stop="20260224085000 +0800">
+		<title lang="zh">广州新闻联播</title>
+	</programme>
+	<programme channel="广州综合" start="20260224085000 +0800" stop="20260224120000 +0800">
+		<title lang="zh">直播2026广东省高质量发展大会</title>
+	</programme>
+	<programme channel="广州综合" start="20260224120000 +0800" stop="20260224123000 +0800">
+		<title lang="zh">湾区全媒睇</title>
+	</programme>
+	<programme channel="广州综合" start="20260224123000 +0800" stop="20260224130000 +0800">
+		<title lang="zh">G4出动</title>
+	</programme>
+	<programme channel="广州综合" start="20260224130000 +0800" stop="20260224133000 +0800">
+		<title lang="zh">中国城市报道</title>
+	</programme>
+	<programme channel="广州综合" start="20260224133000 +0800" stop="20260224140000 +0800">
+		<title lang="zh">健康100FUN</title>
+	</programme>
+	<programme channel="广州综合" start="20260224140000 +0800" stop="20260224141500 +0800">
+		<title lang="zh">人生一万年</title>
+	</programme>
+	<programme channel="广州综合" start="20260224141500 +0800" stop="20260224165500 +0800">
+		<title lang="zh">广视剧场</title>
+	</programme>
+	<programme channel="广州综合" start="20260224165500 +0800" stop="20260224171000 +0800">
+		<title lang="zh">广州教育联播</title>
+	</programme>
+	<programme channel="广州综合" start="20260224171000 +0800" stop="20260224174500 +0800">
+		<title lang="zh">健康100FUN</title>
+	</programme>
+	<programme channel="广州综合" start="20260224174500 +0800" stop="20260224180000 +0800">
+		<title lang="zh">百味广州</title>
+	</programme>
+	<programme channel="广州综合" start="20260224180000 +0800" stop="20260224183000 +0800">
+		<title lang="zh">G4出动</title>
+	</programme>
+	<programme channel="广州综合" start="20260224183000 +0800" stop="20260224190000 +0800">
+		<title lang="zh">广视新闻</title>
+	</programme>
+	<programme channel="广州综合" start="20260224190000 +0800" stop="20260224193000 +0800">
+		<title lang="zh">转播新闻联播</title>
+	</programme>
+	<programme channel="广州综合" start="20260224193000 +0800" stop="20260224210000 +0800">
+		<title lang="zh">合家欢剧场</title>
+	</programme>
+	<programme channel="广州综合" start="20260224210000 +0800" stop="20260224213000 +0800">
+		<title lang="zh">广州新闻联播</title>
+	</programme>
+	<programme channel="广州综合" start="20260224213000 +0800" stop="20260224230000 +0800">
 		<title lang="zh">雷霆剧场</title>
 	</programme>
-	<programme channel="广州综合" start="20260223230000 +0800" stop="20260223235000 +0800">
-		<title lang="zh">纪录片珠江</title>
+	<programme channel="广州综合" start="20260224230000 +0800" stop="20260224234000 +0800">
+		<title lang="zh">中国城市报道</title>
 	</programme>
-	<programme channel="广州综合" start="20260223235000 +0800" stop="20260223235900 +0800">
-		<title lang="zh">百味广州</title>
+	<programme channel="广州综合" start="20260224234000 +0800" stop="20260224235900 +0800">
+		<title lang="zh">广视剧场</title>
 	</programme>
 </tv>
