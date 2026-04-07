@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-07 06:42:48,https://cc06.tv12.xyz/1.m3u8
+2026-04-07 19:08:51,https://cc06.tv12.xyz/1.m3u8
 
 央视频道,#genre#
 CCTV-1,https://cc06.tv12.xyz/1.m3u8
@@ -328,6 +328,7 @@ CCTV-17,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 广州综合,http://iptv.cqshushu.com/gddf.php?id=gzzh&token=a438a27a9ab11996f4a8f848146f2733
 广州综合,http://www.3344.uk:8888/rtp/239.253.43.66:5146
 广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
+广州综合,http://iptv.cqshushu.com/gddf.php?id=gzzh&token=5c8e9229d26964074bfdc4de1aacec9f
 广州新闻,http://n1.gzbody.com:85/rtp/239.253.43.72:5146
 广州新闻,http://iptv.cqshushu.com/gddf.php?id=gzxw&token=a438a27a9ab11996f4a8f848146f2733
 广州新闻,http://www.3344.uk:8888/rtp/239.253.43.67:5146
